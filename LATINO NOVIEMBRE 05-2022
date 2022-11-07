@@ -15,6 +15,10 @@ https://s2.tvdatta.com:3548/hybrid/play.m3u8?PlaylistM3UCL
 http://200.24.132.99:8000/play/a01j
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/ZnhmRj8W/Win-Sports2017.png",Win Sports
 http://fortv.cc:8080/Rock/hastings420/78697
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="http://x.playerlatino.live/winsportsplus.png",WIN SPORTS + * |HD|
+http://190.27.172.231:25000/play/a0b8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/ZnhmRj8W/Win-Sports2017.png",WIN SPORTS + * |HD|
+http://45.232.211.195:1080/play/a043
 #EXTINF:-1 group-title="Samsung TV Plus" tvg-logo="https://i.postimg.cc/59z33y5Q/MASTER-ILUSION.png",MAESTROS DE LA ILUSION
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254ab6fa74f8e0007ba6879/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Samsung TV Plus" tvg-logo="https://i.postimg.cc/FHwnQNpS/INWONDER-MORADO.png",INWONDER * | (Mexico)
