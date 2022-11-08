@@ -15,6 +15,8 @@ https://s2.tvdatta.com:3548/hybrid/play.m3u8?PlaylistM3UCL
 http://200.24.132.99:8000/play/a01j
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/ZnhmRj8W/Win-Sports2017.png",Win Sports
 http://fortv.cc:8080/Rock/hastings420/78697
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/ZnhmRj8W/Win-Sports2017.png",WIN SPORTS  * |HD|
+http://181.129.186.36:8089/play/a00q/index.m3u8
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="http://x.playerlatino.live/winsportsplus.png",WIN SPORTS + * |HD|
 http://190.27.172.231:25000/play/a0b8
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/ZnhmRj8W/Win-Sports2017.png",WIN SPORTS + * |HD|
